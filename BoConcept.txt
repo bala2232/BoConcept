@@ -5,3 +5,4 @@ Author: Balakrishnan
 3.Features
 4.Add to Cart
 5.No payment Gateway
+6. Add seasonal offers
